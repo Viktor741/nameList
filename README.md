@@ -1,2 +1,0 @@
-# nameList
-Created with CodeSandbox
